@@ -1,1 +1,2 @@
-# AC6-7Projeto-Django
+# projeto_heroku
+Primeiro projeto com Heroku
